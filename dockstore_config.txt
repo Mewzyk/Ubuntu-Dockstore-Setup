@@ -1,0 +1,2 @@
+token: 8b45f789e5f0255228a4d91b5e27b5af29bdbd4f2a2c0d5c93e55630ceb87d68
+server-url: https://dockstore.org:8443

@@ -1,0 +1,4 @@
+
+#path for java and dockstore (assuming dockstore is in home directory)
+export PATH=$HOME/.local/bin/:$PATH
+export PATH=$HOME/:$PATH
