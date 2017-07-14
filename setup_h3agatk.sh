@@ -51,10 +51,12 @@ printf "\n Installing Dockstore \n"
 # Dockstore setup
 mkdir ~/.dockstore
 
-cat docker_config.txt > ~/.dockstore/config
+cat dockstore_config.txt > ~/.dockstore/config
 
 chmod +x dockstore
 
 cat path_config.txt > ~/.bashrc
+
+source ~/.bashrc
 
 dockstore
